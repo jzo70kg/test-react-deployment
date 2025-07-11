@@ -26,7 +26,7 @@ function App() {
         {/* Main content */}
         <div style={{ flex: 1 }}>
           <header style={{ background: '#333', color: '#fff', padding: '1rem' }}>
-            <h1>JZ test</h1>
+            <h1>JZod test</h1>
           </header>
           <div style={{ padding: '1rem' }}>
             <Routes>
